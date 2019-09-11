@@ -1,0 +1,7 @@
+Calculate 10 * (40 + 20).
+
+Set result to Ans.
+
+If there is non-negative that the answer of Ans, then do the followings:
+    Show the value of Ans.
+That all.

@@ -1,0 +1,13 @@
+Calculate 1.
+Set result to Ans.
+
+Repeat the followings:
+    Show the value of Ans.
+
+    If there is non-negative that the answer of (Ans - 4), then do the followings:
+        Go out of the loop.
+    That all.
+
+    Calculate Ans + 1.
+    Set result to Ans.
+That all.
