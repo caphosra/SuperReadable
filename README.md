@@ -1,6 +1,7 @@
 # SuperReadable - _soooooooooo readable language_
 
 This language is sooooooooooo readable.  
+There is only readable the advantage of this.
 
 ## Examples
 
@@ -21,4 +22,10 @@ Repeat the followings:
     Calculate Ans + 1.
     Set result to Ans.
 That all.
+```
+
+It is eqivalent to the following brainf\*ck code:
+
+```
++++++[->+.<]>++++++++++.
 ```
